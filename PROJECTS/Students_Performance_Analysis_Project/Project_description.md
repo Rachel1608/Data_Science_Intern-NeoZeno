@@ -66,29 +66,24 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Enables course-wise performance comparison
 - Supports decision-making without complex models
 
-### How This Fits Into the Project
-**This rule-based classifier:**
-- Serves as a reference model for future machine learning predictions
-- Allows direct comparison between manual logic and ML outputs
-- Helps transform raw exam scores into actionable categories
 
 ## Visual Insights from R-Based Analysis
 * **1) Class Attendance vs Exam Score (Line Plot)**
-  ![My Image](R_plots/class_attendance_vs_exam_score.png)
+  ![My Image](R_Plots/class_attendance_vs_exam_score.png)
 
   **Insight:**
       - Students with higher class attendance consistently achieve higher exam scores, indicating that regular participation plays a critical role in academic success.
       - Reinforces attendance as a strong, actionable performance indicator for educators.
 
 * **2) Age vs Sleep Hours (Scatter Plot)**
-  ![My Image](R_plots/age_vs_sleep_hours.png)
+  ![My Image](R_Plots/age_vs_sleep_hours.png)
 
   **Insight:**
       - Sleep hours vary across age groups, with younger students generally maintaining slightly longer sleep durations than older students.
       - Lifestyle differences by age may indirectly influence concentration and learning efficiency.
 
 * **3️) Exam Score Distribution (Histogram)**
-  ![My Image](R_plots/frequency_of_exam_score.png)
+  ![My Image](R_Plots/frequency_of_exam_score.png)
 
 
   **Insight:**
@@ -96,7 +91,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Suggests a balanced evaluation system with limited outliers, suitable for predictive modeling.
 
 * **4️) Sleep Hours vs Study Hours (Bar Plot)**
-  ![My Image](R_plots/sleep_hours_vs_study_hours.png)
+  ![My Image](R_Plots/sleep_hours_vs_study_hours.png)
 
 
   **Insight:**
@@ -104,7 +99,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Highlights the importance of balance rather than excessive studying at the cost of rest.
 
 * **5️) Exam Score by Course (Boxplot)**
-  ![My Image](R_plots/course_vs_exam_score.png)
+  ![My Image](R_Plots/course_vs_exam_score.png)
 
 
   **Insight:**
@@ -112,7 +107,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Indicates that course structure and assessment difficulty may influence performance consistency.
 
 * **6️) Study Hours by Study Method (Boxplot)**
-  ![My Image](R_plots/study_hours_vs_study_method.png)
+  ![My Image](R_Plots/study_hours_vs_study_method.png)
 
 
   **Insight:**
@@ -121,7 +116,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 
 ### ggplot2 Visual Insights
 * **7️) Study Hours by Gender (Bar Plot)**
-  ![My Image](R_plots/gender_vs_study_hours.png)
+  ![My Image](R_Plots/gender_vs_study_hours.png)
 
 
   **Insight:**
@@ -129,7 +124,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Suggests fairness in academic effort distribution among students.
 
 * **8️) Facility Rating vs Sleep Hours (Column Plot)**
-  ![My Image](R_plots/facility_rating_vs_sleep_hours.png)
+  ![My Image](R_Plots/facility_rating_vs_sleep_hours.png)
 
 
   **Insight:**
@@ -137,7 +132,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Highlights the indirect impact of institutional facilities on academic performance.
 
 * **9️) Study Hours vs Exam Score (Jitter Plot)**
-  ![My Image](R_plots/study_hours_vs_exam_score.png)
+  ![My Image](R_Plots/study_hours_vs_exam_score.png)
 
 
   **Insight:**
@@ -145,7 +140,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Emphasizes efficient studying over excessive studying.
 
 * **10) Age vs Study Hours (Regression Plot)**
-  ![My Image](R_plots/age_vs_study_hours.png)
+  ![My Image](R_Plots/age_vs_study_hours.png)
 
 
   **Insight:**
@@ -153,7 +148,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
       - Helps tailor academic support strategies by age group.
 
 * **11) Exam Difficulty Distribution (Bar Plot)**
-  ![My Image](R_plots/count_exam_difficulty.png)
+  ![My Image](R_Plots/count_exam_difficulty.png)
 
 
   **Insight:**
