@@ -69,7 +69,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 
 ## Visual Insights from R-Based Analysis
 * **1) Class Attendance vs Exam Score (Line Plot)**
-  ![My Image](R_Plots/class_attendance_vs_exam_score.png)
+  ![My Image](R/R_Plots/class_attendance_vs_exam_score.png)
 
   **Insight:**
       - Students with higher class attendance consistently achieve higher exam scores, indicating that regular participation plays a critical role in academic success.
