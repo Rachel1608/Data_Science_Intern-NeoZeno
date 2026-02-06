@@ -69,20 +69,25 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 
 ## Visual Insights from R-Based Analysis
 * **1) Class Attendance vs Exam Score (Line Plot)**
+  
   ![My Image](R/R_Plots/class_attendance_vs_exam_score.png)
+
 
 **Insight:**
 - Students with higher class attendance consistently achieve higher exam scores, indicating that regular participation plays a critical role in academic success.
 - Reinforces attendance as a strong, actionable performance indicator for educators.
 
 * **2) Age vs Sleep Hours (Scatter Plot)**
+  
   ![My Image](R/R_Plots/age_vs_sleep_hours.png)
+
 
 **Insight:**
 - Sleep hours vary across age groups, with younger students generally maintaining slightly longer sleep durations than older students.
 - Lifestyle differences by age may indirectly influence concentration and learning efficiency.
 
 * **3️) Exam Score Distribution (Histogram)**
+  
   ![My Image](R/R_Plots/frequency_of_exam_score.png)
 
 
@@ -91,6 +96,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Suggests a balanced evaluation system with limited outliers, suitable for predictive modeling.
 
 * **4️) Sleep Hours vs Study Hours (Bar Plot)**
+  
   ![My Image](R/R_Plots/sleep_hours_vs_study_hours.png)
 
 
@@ -99,6 +105,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Highlights the importance of balance rather than excessive studying at the cost of rest.
 
 * **5️) Exam Score by Course (Boxplot)**
+  
   ![My Image](R/R_Plots/course_vs_exam_score.png)
 
 
@@ -107,6 +114,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Indicates that course structure and assessment difficulty may influence performance consistency.
 
 * **6️) Study Hours by Study Method (Boxplot)**
+  
   ![My Image](R/R_Plots/study_hours_vs_study_method.png)
 
 
@@ -116,6 +124,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 
 ### ggplot2 Visual Insights
 * **7️) Study Hours by Gender (Bar Plot)**
+  
   ![My Image](R/R_Plots/gender_vs_study_hours.png)
 
 
@@ -124,6 +133,7 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Suggests fairness in academic effort distribution among students.
 
 * **8️) Facility Rating vs Sleep Hours (Column Plot)**
+  
   ![My Image](R/R_Plots/facility_rating_vs_sleep_hours.png)
 
 
@@ -132,25 +142,32 @@ Instead of using a machine learning model, the logic relies on domain-defined sc
 - Highlights the indirect impact of institutional facilities on academic performance.
 
 * **9️) Study Hours vs Exam Score (Jitter Plot)**
+  
   ![My Image](R/R_Plots/study_hours_vs_exam_score.png)
+  
 
 **Insight:**
 - A positive relationship exists between study hours and exam scores, although diminishing returns appear at very high study durations.
 - Emphasizes efficient studying over excessive studying.
 
 * **10) Age vs Study Hours (Regression Plot)**
+  
   ![My Image](R/R_Plots/age_vs_study_hours.png)
+  
 
 **Insight:**
 - The regression trend shows how study habits evolve with age, with certain age groups dedicating more time to studying.
 - Helps tailor academic support strategies by age group.
 
 * **11) Exam Difficulty Distribution (Bar Plot)**
+  
   ![My Image](R/R_Plots/count_exam_difficulty.png)
+  
 
 **Insight:**
 - Most exams fall into moderate difficulty levels, with fewer extremely easy or hard exams.
 - Provides context for interpreting performance results across difficulty levels.
+
 
 ##  Conclusion:
 This project presents an end-to-end analysis of student exam performance using SQL, Python, and R.
