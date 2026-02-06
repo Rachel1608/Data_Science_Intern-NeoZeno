@@ -1,0 +1,44 @@
+age,gender,course,study_hours,class_attendance,study_method,exam_difficulty,exam_score
+17,male,ba,2.28,65.6,self-study,moderate,19.599
+19,male,b.tech,0.19,44,"online videos",easy,19.599
+18,male,diploma,0.08,63.4,coaching,easy,19.599
+17,male,b.sc,1.09,42.1,mixed,easy,19.599
+18,male,b.tech,1.1,57.4,"group study",easy,19.8
+17,male,b.tech,1.76,58.2,"group study",hard,22.9
+23,male,bba,2.53,41.6,self-study,easy,23.5
+19,male,diploma,1.33,82.4,"online videos",moderate,26.7
+18,male,b.tech,2.48,47.3,"online videos",hard,27.2
+17,male,b.tech,0.74,77,"group study",moderate,27.6
+23,male,bca,2.26,51.4,"online videos",moderate,28.3
+21,male,bca,2.12,53,self-study,moderate,30.3
+22,male,b.sc,0.25,78.6,"online videos",easy,31.9
+24,male,bca,1.08,95,"group study",moderate,32
+24,male,bca,2.18,68,"online videos",moderate,32.1
+18,male,bca,0.4,64.9,self-study,moderate,32.3
+19,male,bca,1.89,52,"group study",moderate,35.5
+24,male,b.com,0.27,91.7,"group study",moderate,36.3
+18,male,b.tech,0.08,74,"group study",easy,36.6
+22,male,bca,0.79,55.4,coaching,moderate,37.6
+20,male,bba,2.5,40.6,"group study",moderate,37.8
+19,male,b.com,4.97,47.7,mixed,hard,37.9
+18,male,bba,1.1,50.4,"online videos",hard,38.8
+24,male,b.com,0.19,44.5,coaching,hard,38.9
+22,male,b.com,3.68,56.4,"group study",easy,39.7
+22,male,diploma,0.99,57.4,"online videos",moderate,40
+19,male,b.tech,4.62,56.5,"online videos",moderate,40.2
+19,male,b.sc,0.45,65.5,"group study",moderate,42.9
+22,male,b.sc,2.66,75.9,self-study,hard,44.3
+24,male,b.com,1.61,86.1,"online videos",hard,44.7
+17,male,bca,4.03,64.7,self-study,moderate,45.7
+21,male,b.com,0.49,85.1,mixed,moderate,46.2
+18,male,ba,1.44,86.8,"group study",easy,47.1
+17,male,b.sc,2.08,63.9,mixed,easy,47.2
+22,male,b.sc,5.48,51.1,self-study,moderate,47.3
+18,male,b.com,3.41,58.1,self-study,easy,47.4
+19,male,b.tech,0.91,60,"group study",moderate,47.4
+22,male,ba,3.13,88.6,"online videos",moderate,47.4
+17,male,ba,3.36,64.6,mixed,moderate,49
+24,male,diploma,3.71,79.2,"online videos",easy,49
+18,male,diploma,0.17,65.4,self-study,moderate,49.1
+20,male,b.tech,4.11,59.9,coaching,moderate,49.3
+18,male,ba,2.73,47.2,mixed,moderate,49.7

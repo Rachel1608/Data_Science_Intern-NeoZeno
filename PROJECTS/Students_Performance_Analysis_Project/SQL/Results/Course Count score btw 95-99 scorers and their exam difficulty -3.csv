@@ -1,0 +1,13 @@
+course,exam_score,exam_difficulty,count(*)
+bba,98.5,moderate,1
+b.tech,97.5,easy,1
+b.sc,95.2,moderate,1
+diploma,95.5,easy,1
+b.com,95.6,moderate,1
+b.tech,96.1,easy,1
+bba,97.5,moderate,1
+ba,96.4,easy,1
+bba,96,hard,1
+b.sc,96.3,moderate,1
+bba,97.9,moderate,1
+bba,97.1,moderate,1

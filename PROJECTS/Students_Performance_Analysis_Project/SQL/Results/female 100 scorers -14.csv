@@ -1,0 +1,10 @@
+age,gender,course,study_hours,class_attendance,study_method,exam_difficulty
+20,female,b.tech,6.65,96.4,mixed,moderate
+17,female,ba,6.11,85.9,"group study",easy
+22,female,bca,7.35,96.2,coaching,hard
+22,female,diploma,7.68,82.7,coaching,moderate
+22,female,bca,6.43,85.8,"online videos",moderate
+17,female,bba,7.39,94.8,mixed,moderate
+24,female,bba,5.61,93.2,self-study,moderate
+23,female,b.com,6.11,89.9,coaching,moderate
+22,female,b.com,7.85,63.9,mixed,hard

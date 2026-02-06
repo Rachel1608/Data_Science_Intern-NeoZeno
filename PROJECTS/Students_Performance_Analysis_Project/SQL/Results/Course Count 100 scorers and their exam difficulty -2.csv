@@ -1,0 +1,13 @@
+course,exam_score,exam_difficulty,count(*)
+b.sc,100,easy,1
+ba,100,moderate,1
+b.sc,100,moderate,1
+b.tech,100,moderate,1
+ba,100,easy,1
+bca,100,hard,1
+diploma,100,moderate,1
+b.tech,100,hard,1
+b.com,100,moderate,2
+bca,100,moderate,1
+bba,100,moderate,2
+b.com,100,hard,1

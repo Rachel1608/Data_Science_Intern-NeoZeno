@@ -1,0 +1,86 @@
+age,gender,course,study_hours,class_attendance,study_method,exam_difficulty,exam_score
+24,male,bba,1.84,86.7,coaching,moderate,74.9
+23,male,bca,5.01,55.7,mixed,easy,74.8
+22,male,b.com,5.92,93.6,self-study,moderate,74.8
+20,male,diploma,4.72,97.5,self-study,moderate,74.4
+23,male,ba,5.03,98.5,mixed,hard,74.1
+19,male,diploma,5.96,70.6,mixed,moderate,73.9
+21,male,b.sc,7.91,50,"group study",easy,73.7
+19,male,b.com,5.07,59.7,"group study",moderate,73.6
+22,male,bba,6.38,77.2,mixed,moderate,72.7
+21,male,b.com,7.54,50.1,"group study",moderate,72.6
+21,male,bca,3.02,91.6,"group study",moderate,72.5
+21,male,ba,6.26,50.3,self-study,hard,72.4
+20,male,b.tech,5.42,65.7,mixed,moderate,72.2
+20,male,bca,5.76,55.7,self-study,easy,71.6
+17,male,bca,4.32,58.5,coaching,easy,71.4
+23,male,b.tech,6.9,87.1,"online videos",hard,71.1
+18,male,bba,6.2,92.5,"online videos",moderate,71
+17,male,b.tech,6.26,56.9,self-study,easy,70.9
+18,male,ba,4.41,90.8,"group study",hard,70.6
+22,male,b.com,2.55,96.1,"online videos",easy,70.6
+18,male,diploma,5.44,94.9,coaching,easy,70.5
+21,male,b.sc,1.97,91.9,self-study,moderate,70.3
+21,male,bca,5.73,55.1,"group study",easy,70.2
+17,male,b.com,6.9,78.1,coaching,hard,70.1
+18,male,b.com,5.74,73.7,"online videos",moderate,69.6
+20,male,bba,3.73,72,mixed,hard,69.5
+19,male,bba,0.74,80.2,mixed,easy,69.5
+23,male,bba,0.91,84.5,coaching,moderate,68.9
+20,male,ba,7.63,50.4,"online videos",moderate,68.6
+18,male,bca,3.4,48.5,"online videos",easy,68.4
+23,male,b.sc,3.9,52.7,mixed,moderate,68.4
+19,male,b.tech,5.7,72.3,self-study,moderate,67.9
+18,male,b.sc,2.38,94.3,mixed,easy,67.7
+19,male,b.sc,7.69,45.5,"group study",moderate,67.2
+17,male,diploma,1.24,90.3,mixed,easy,67.1
+23,male,b.sc,5.36,40.6,mixed,moderate,67
+22,male,bba,1.62,91.8,mixed,moderate,66.9
+23,male,b.com,7.13,92.1,mixed,hard,66.9
+18,male,bba,3.63,50.3,"group study",easy,65.9
+21,male,bba,4.94,88,mixed,easy,65.6
+20,male,b.tech,5.85,77.5,"online videos",moderate,64.9
+21,male,b.sc,2.9,62,mixed,moderate,64.7
+23,male,b.sc,7.02,46.2,"online videos",moderate,63.8
+18,male,ba,0.97,64.5,coaching,moderate,63.8
+19,male,diploma,6.37,42,self-study,easy,62.8
+23,male,bca,2.12,72,"group study",easy,62.6
+23,male,diploma,4.7,56.7,mixed,easy,62.4
+23,male,b.sc,1.08,92,self-study,easy,62.1
+20,male,b.sc,4.35,40.6,"group study",moderate,62
+18,male,b.com,4.8,58.5,mixed,moderate,61.6
+18,male,ba,0.84,79,"online videos",easy,61.5
+21,male,bca,0.12,94.7,mixed,moderate,61.2
+19,male,b.sc,6.72,69,self-study,moderate,61
+19,male,bba,3.51,73.9,coaching,moderate,60.8
+21,male,bca,4.21,50,coaching,hard,60.5
+21,male,ba,1.6,91.6,"group study",hard,59.7
+22,male,b.com,6.29,45.7,mixed,moderate,59.5
+20,male,ba,2.35,61.9,mixed,hard,59.2
+19,male,b.com,4.09,72.1,"online videos",moderate,59
+17,male,diploma,2.78,92.9,coaching,hard,58.9
+21,male,bba,6.64,54.9,"group study",hard,58.3
+23,male,b.tech,3.48,65.4,mixed,moderate,58.2
+22,male,ba,2.55,99.4,coaching,easy,57.6
+18,male,b.com,6.31,49.9,"group study",hard,57.5
+24,male,b.com,4.65,44,"group study",moderate,57.3
+17,male,bca,3.43,90.7,coaching,moderate,57.3
+23,male,ba,4.26,84.6,"online videos",moderate,56.6
+23,male,bca,0.72,92.9,"online videos",moderate,56.6
+20,male,b.com,2.1,49.3,coaching,hard,56.6
+20,male,diploma,1.34,76.6,self-study,hard,55.9
+18,male,bca,3.19,52.4,coaching,moderate,55.9
+20,male,diploma,3.51,81.3,"group study",hard,55.4
+21,male,bca,7.7,50.4,self-study,easy,55.2
+23,male,b.tech,5.12,68.9,mixed,moderate,54.5
+21,male,b.sc,5.35,62.9,"online videos",moderate,54.4
+19,male,b.com,3.8,79.4,self-study,easy,53.7
+22,male,b.sc,2.46,99.4,"online videos",easy,53.6
+24,male,b.com,3.77,96.6,"online videos",easy,53.5
+21,male,diploma,1.57,64.2,self-study,hard,53.3
+23,male,b.sc,3.68,72.9,"online videos",moderate,53.1
+17,male,b.tech,6.46,40.7,mixed,moderate,52.8
+24,male,ba,1.51,89.1,"group study",moderate,52.6
+23,male,bca,3.96,84.5,"group study",hard,52
+17,male,b.tech,7.4,61.7,"online videos",easy,50.8
+20,male,b.com,1.02,49,"group study",easy,50.4

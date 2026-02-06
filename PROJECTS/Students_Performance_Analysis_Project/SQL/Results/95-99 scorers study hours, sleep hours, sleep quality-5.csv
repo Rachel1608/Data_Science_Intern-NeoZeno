@@ -1,0 +1,13 @@
+age,gender,course,exam_difficulty,study_hours,sleep_hours,sleep_quality,study_method,exam_score
+23,other,bba,moderate,4.84,7.3,average,coaching,98.5
+17,male,bba,moderate,5.8,5.5,good,coaching,97.9
+20,other,b.tech,easy,7.28,6.3,poor,mixed,97.5
+22,male,bba,moderate,7.22,4.9,good,"online videos",97.5
+21,female,bba,moderate,7.84,5.3,poor,"group study",97.1
+19,male,ba,easy,6.96,4.4,average,coaching,96.4
+21,male,b.sc,moderate,7.8,9.5,good,mixed,96.3
+19,female,b.tech,easy,7.11,5.9,poor,mixed,96.1
+18,other,bba,hard,5.22,6.5,good,mixed,96
+22,male,b.com,moderate,6.26,5.1,good,coaching,95.6
+22,male,diploma,easy,7.77,9,average,coaching,95.5
+20,other,b.sc,moderate,5.7,7.3,poor,coaching,95.2

@@ -1,0 +1,15 @@
+age,gender,class_attendance,internet_access,facility_rating,exam_difficulty
+24,male,67.8,yes,high,easy
+20,other,85.3,yes,medium,moderate
+22,male,62.7,yes,high,moderate
+20,female,96.4,yes,low,moderate
+17,female,85.9,no,high,easy
+22,female,96.2,yes,medium,hard
+22,female,82.7,yes,low,moderate
+20,male,69.5,yes,high,hard
+24,male,65.9,yes,high,moderate
+22,female,85.8,yes,high,moderate
+17,female,94.8,yes,high,moderate
+24,female,93.2,yes,high,moderate
+23,female,89.9,yes,high,moderate
+22,female,63.9,yes,low,hard
