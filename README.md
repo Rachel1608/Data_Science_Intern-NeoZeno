@@ -1,6 +1,13 @@
 # Data-Science-Intern-NeoZeno
 ## Training Projects
 
+### Demo video of Electric Vehicle Energy Efficiency Power BI Dashboard project
+
+
+![Power BI Dashboard Demo](demo/electric_vehicle_power_bi_demo.gif)
+
+
+
 ### 1) Students Performance Analysis
 This project presents an end-to-end analysis of student exam performance using SQL, Python, and R.
 It explores academic, demographic, and lifestyle factors influencing exam scores and converts raw data into actionable insights.
@@ -34,13 +41,6 @@ It explores academic, demographic, and lifestyle factors influencing exam scores
 
 ### Creating Professional Dashboard using Power BI for Electric Vehicle Energy Efficiency Analysis
 This project presents an interactive Power BI dashboard to analyze the energy efficiency of electric vehicles (EVs) across different manufacturers, vehicle classes, and model years. The dashboard helps compare older vs newer EV models and understand how factors such as motor power, recharge time, and manufacturing year impact overall efficiency.
-
-
-
-
-![Power BI Dashboard Demo](demo/electric_vehicle_power_bi_demo.gif)
-
-
 
 
 #### Analysis & Visualizations
