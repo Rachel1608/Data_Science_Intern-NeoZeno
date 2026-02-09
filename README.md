@@ -1,14 +1,14 @@
 # Data-Science-Intern-NeoZeno
 ## Training Projects
 
-### Demo video of Electric Vehicle Energy Efficiency Power BI Dashboard project
+### Demo video of Electric Vehicle Energy Efficiency Power BI Dashboard Project
 
 
 ![Power BI Dashboard Demo](demo/electric_vehicle_power_bi_demo.gif)
 
 
 
-### 1) Students Performance Analysis
+### 1) Students Performance Analysis Project
 This project presents an end-to-end analysis of student exam performance using SQL, Python, and R.
 It explores academic, demographic, and lifestyle factors influencing exam scores and converts raw data into actionable insights.
 
