@@ -39,7 +39,7 @@ It explores academic, demographic, and lifestyle factors influencing exam scores
 - Performance trends remain balanced across genders, indicating fair academic outcomes.
 - Rule-based classification effectively identifies top performers and at-risk students, enabling early intervention.
 
-### Creating Professional Dashboard using Power BI for Electric Vehicle Energy Efficiency Analysis
+### 2) Creating Professional Dashboard using Power BI for Electric Vehicle Energy Efficiency Analysis
 This project presents an interactive Power BI dashboard to analyze the energy efficiency of electric vehicles (EVs) across different manufacturers, vehicle classes, and model years. The dashboard helps compare older vs newer EV models and understand how factors such as motor power, recharge time, and manufacturing year impact overall efficiency.
 
 ![My Image](ev_dashboard.png)
@@ -86,3 +86,51 @@ Target = Average Energy Efficiency × 2
 - Model-year trends reveal rapid growth post-2020, aligning with global EV adoption and regulatory pushes toward sustainable mobility.
 
 - Gauge analysis highlights models exceeding efficiency targets, making strong candidates for eco-conscious consumers and fleet optimization.
+
+
+### 3) Lung Cancer Survey using Logistic Regression
+
+#### Project Overview
+
+Developed a predictive model to identify potential lung cancer cases using survey-based health data. The focus was on improving early detection by optimizing the classification threshold rather than relying on the default 0.5 probability cutoff.
+
+#### Business Problem
+
+In medical diagnosis, missing a positive case (False Negative) can have serious consequences. The goal was to build a model that prioritizes high recall (sensitivity) while maintaining balanced precision.
+
+#### Approach
+
+- EDA
+- Data preprocessing and feature selection
+- Train-test split
+- Logistic Regression model training
+- Model evaluation (Accuracy, Precision, Recall, F1-score, Confusion Matrix)
+- Threshold tuning to balance sensitivity and specificity
+
+#### Why Threshold Tuning?
+
+- Instead of using the default 0.5 cutoff:
+- Tested multiple probability thresholds
+- Reduced False Negatives
+- Improved cancer detection sensitivity
+- Balanced recall and precision based on medical priority
+- This demonstrates practical understanding of real-world model deployment considerations.
+
+#### Key Results
+
+- Improved recall through optimized threshold
+- Reduced risk of missing high-risk patients
+- Logistic Regression provided interpretable probability outputs
+- Showcased how evaluation metrics impact decision-making
+
+#### Tech Stack
+
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+
+#### Key Takeaway
+
+- Model performance is not just about accuracy — threshold selection directly impacts real-world decision outcomes, especially in healthcare applications.
+
