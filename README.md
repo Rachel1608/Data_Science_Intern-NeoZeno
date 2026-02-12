@@ -42,6 +42,9 @@ It explores academic, demographic, and lifestyle factors influencing exam scores
 ### Creating Professional Dashboard using Power BI for Electric Vehicle Energy Efficiency Analysis
 This project presents an interactive Power BI dashboard to analyze the energy efficiency of electric vehicles (EVs) across different manufacturers, vehicle classes, and model years. The dashboard helps compare older vs newer EV models and understand how factors such as motor power, recharge time, and manufacturing year impact overall efficiency.
 
+![My Image](ev_dashboard.png)
+
+
 
 #### Analysis & Visualizations
 
