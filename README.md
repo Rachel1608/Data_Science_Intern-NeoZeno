@@ -4,7 +4,7 @@
 ### Demo video of Electric Vehicle Energy Efficiency Power BI Dashboard Project
 
 
-![Power BI Dashboard Demo](demo/electric_vehicle_power_bi_demo.gif)
+![Project Demo](ev_demo.gif)
 
 
 
